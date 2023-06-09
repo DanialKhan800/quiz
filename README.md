@@ -23,8 +23,7 @@ This app was created for a React Hooks tutorial, if you want to follow the tutor
 
 ## Contributing
 
-Pull requests are welcome.
-
+Pull requests are welcome.\
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
